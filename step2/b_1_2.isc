@@ -1,0 +1,18 @@
+    1     1gat inpt    1   0      >sa1
+    2     2gat inpt    1   0      >sa1
+    3     3gat inpt    1   0      >sa1
+    4     4gat inpt    2   0      >sa1
+    5     4_1  from    4gat      >sa1
+    6     4_2  from    4gat      >sa1
+    7     7gat or      2   1      >sa1
+     1     2	0
+    8     8gat and     2   2      >sa1
+     3     5	2
+    9     8_1 from    8gat      >sa1
+    10    8_2 from    8gat      >sa1
+    11    11gat nand    2   2
+     7     9	1	
+    12    11_1 from    11gat      >sa1
+    13    11_2 from    11gat      >sa1
+    14    14gat xnor    0   3      >sa1
+     3     10     13	3

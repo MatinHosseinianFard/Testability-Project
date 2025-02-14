@@ -1,0 +1,7 @@
+    1     1gat inpt    1   0      >sa1
+    2     2gat inpt    1   0      >sa1
+    3     3gat and    1   2      >sa1
+     1     2
+    4     5gat or     0   2      >sa1
+     3     2
+

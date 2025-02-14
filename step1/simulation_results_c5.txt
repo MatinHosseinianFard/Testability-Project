@@ -1,0 +1,15 @@
+Test Vectors Table:
+  Time   |  inpt1  |  inpt2  |  inpt4 
+======================================
+   0     |    1    |    1    |    0   
+   5     |    Z    |    1    |    1   
+
+
+Outputs Table:
+Gate Address (Type)  |  t=0  |  t=5 
+------------------------------------
+1(inpt)              |   1   |   Z  
+2(inpt)              |   1   |   1  
+3(nand)              |   0   |   Z  
+4(inpt)              |   0   |   1  
+5(and)               |   0   |   U  

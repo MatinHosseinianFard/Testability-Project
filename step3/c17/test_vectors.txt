@@ -1,0 +1,14 @@
+net        fault      1 2 3 6 7
+
+2          sa0        X 1 0 X X
+2          sa1        X 0 0 X X
+11_1       sa0        X 1 0 X X
+11_1       sa1        X 1 1 1 X
+11_2       sa0        X 0 0 X 1
+11_2       sa1        X X 1 1 1
+16         sa0        X X 1 1 X
+16         sa1        X 1 0 X X
+19         sa0        X X 1 1 X
+19         sa1        X 0 0 X 1
+23         sa0        X 1 0 X X
+23         sa1        X X 1 1 X

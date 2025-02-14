@@ -1,0 +1,8 @@
+    1     1gat inpt    1   0      >sa1
+    2     2gat inpt    1   0      >sa1
+    3     3gat nand    1   2      >sa1
+     1     2
+    4     4gat inpt    1   0      >sa1
+    5     5gat and     0   2      >sa1
+     3     4
+
